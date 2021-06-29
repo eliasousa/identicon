@@ -1,0 +1,14 @@
+---
+version: 1
+service:
+  name: Identicon
+  lifecycle: 
+  tier: tier_1
+  product: 
+  owner: new_owner
+  language: elixir
+  framework:
+  description: Identicon generator
+  aliases: 
+  tags: 
+  repositories: 
